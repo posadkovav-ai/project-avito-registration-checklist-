@@ -13,11 +13,17 @@
 
 ## Структура проекта
 ├── README.md # Описание проекта
+
 ├── docs/
+
 │ ├── checklist.xlsx # Основной чек-лист
+
 │ └── test-report-template.xlsx # Шаблон отчета
+
 ├── bug-reports/
+
 │ └── bug-report-template.md # Шаблон баг-репорта
+
 └── test-results/ # Результаты тестирования
 
 
